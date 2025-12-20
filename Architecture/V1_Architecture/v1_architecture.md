@@ -18,8 +18,8 @@ The primary goals of talkBoard v1 are:
 ## **3.Architecture Diagram**
 TalkBoard v1 is represented using two **complementary diagram**.Both diagram describes the **same v1 system**, viewed from 
 different abstraction levels.
-
 ### **3.1 Diagram 1 - Logical Architecture(Conceptal View)**
+![Diagram1](assets/Diagram1.png)<br>
 **Purpose**:
 - Explain system responsibilities
 - Show component boundaries
@@ -33,6 +33,7 @@ different abstraction levels.
 - No direct dependency between Auth Server and Socket
 
 ### **3.2 Diagram 2 - Infrastructure Architecture(Deployment View)**
+![Diagram2](assets/Diagram2.png)<br>
 **Purpose**:
 - Show how the system is deployed
 - Represent scalability intentions
