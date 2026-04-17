@@ -1,8 +1,8 @@
 # DevLog — TalkBoard v1
 
-**Status:** Shipped ✓
-**Stack:** React · Node.js · Express · Supabase (PostgreSQL) · Prisma · Socket.IO · MongoDB · WebRTC
-**Repos:** TalkBoard-Frontend · TalkBoard-AppService · TalkBoard-SocketService · TalkBoard-Docs
+**Status:** Shipped ✓<br>
+**Stack:** React · Node.js · Express · Supabase (PostgreSQL) · Prisma · Socket.IO · MongoDB · WebRTC<br>
+**Repos:** TalkBoard-Frontend · TalkBoard-AppService · TalkBoard-SocketService · TalkBoard-Docs<br>
 
 ---
 
